@@ -1,0 +1,24 @@
+name: QHack2022
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6.9
+  - PennyLane==0.21.0
+  - matplotlib==3.2.2
+  - watermark==2.3.0
+  - jupyter
+
+# To create this environment:
+## conda env create -n <env_name> environment.yml 
+
+# Future updates
+## $ conda env update -n <env_name_exist> --file environment.yml --prune
+
+# To export your changes to a new conda env. (suggested for sharing between users):
+## $ conda env export --from-history -n <env_name_exist> > environment.yml
+
+# CLI - command-line interface
+## To show env. info: $ conda info
+## To show installed packages: $ conda list
+## To list a package info: $ conda list <package_name>
+## To remove the env.: $ conda remove --name <env_name_exists> --all

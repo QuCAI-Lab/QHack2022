@@ -1,0 +1,22 @@
+# DEPENDENCIES
+# This file defines the pip-equivalent package dependencies to be installed with: $ python3 -m pip install -r requirements.txt
+# pip can be installed via "$ conda install -yc conda-forge pip==22.0.3" (conda env. on prem) or "$ apt install python3-pip" (Ubuntu-derivatives).
+
+# PACKAGES
+PennyLane==0.21.0
+matplotlib==3.2.2
+watermark==2.3.0
+jupyter #Run with: "$ jupyter notebook"
+
+# CLI - command-line interface
+## To show pip version, run: $ pip --version
+## To install an individual package, run: $ python -m pip install <package-name>.
+## To list installed packages, run: $ pip list
+## To show a package info, run: $ pip show <package-name>
+## To upgrade a package, run: $ python3 -m pip install --user --upgrade <package-name>==<version-number>
+## To uninstall packages, run: $ pip uninstall <package1> <package2>
+
+# NOTES
+## The -m flag in "python -m pip" enforce the pip version tied to the active environment, i.e, executes pip as the __main__ module.
+## The 'pip install jupyter' command will install the Jupyter system, including the jupyter notebook, qtconsole, and the IPython kernel.
+## One should avoid 'pip install conda' since it will not give conda as a standalone application.
