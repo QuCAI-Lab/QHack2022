@@ -84,8 +84,14 @@ python3 -m pip install --user --upgrade pip && python3 -m pip install -r require
   - **Games-400-Find-the-Car** 
   - **Games-500-Switches** 
 
-<br>
-
+# Group distribution
+  
+- [Lucas Camponogara Viera](https://github.com/camponogaraviera) (theory and implementation).
+- [José Paulo Marchezi](https://github.com/zemarchezi) (implementation).
+- [Douglas Franco Pinto](https://www.linkedin.com/in/douglas-pinto-89466b7a/) (theory).
+  
+None of the members had prior knowledge of PennyLane. The learning experience was on-the-go. The week was busy for all members, so we were able to complete only 15/25 challenges.
+  
 # References &nbsp; <a href="#"><img valign="middle" height="45px" src="https://img.icons8.com/book" width="45" hspace="0px" vspace="0px"></a> 
 
 \[1] [QHack2022 problemset templates](https://github.com/XanaduAI/QHack/tree/master/Coding_Challenges).
