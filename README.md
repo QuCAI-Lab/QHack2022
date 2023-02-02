@@ -21,12 +21,10 @@
 
 # Dependencies
 
-<code>
-<a href="https://www.python.org/"><img height="27" src="https://www.python.org/static/img/python-logo.png">
-<a href="https://numpy.org/"><img height="27" src="https://numpy.org/images/logo.svg">
-<a href="https://matplotlib.org"><img height="27" src="https://matplotlib.org/_static/images/logo2.svg"> 
+<a href="https://www.python.org/"><img height="27" src="https://www.python.org/static/img/python-logo.png"></a>
+<a href="https://numpy.org/"><img height="27" src="https://numpy.org/images/logo.svg"></a>
+<a href="https://matplotlib.org"><img height="27" src="https://matplotlib.org/_static/images/logo2.svg"></a> 
 <a href="https://pennylane.ai/"><img height="27" src="https://pennylane.ai/img/xanadu_x.png"></a>
-</code>
 <br>
 <br>
 
